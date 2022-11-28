@@ -12,3 +12,6 @@ After reading the Domain API documentation I realised that it would be possible 
 After some further research I started this project to teach myself the foundations of Python and REST API's. 
 Several weeks later I had developed this script that allows me to get the auction results for the major cities supported by the Domain API 
 and write them to a database which I then hook into via PowreBI for visualisation. 
+
+To run this script you will need your own Domain Developer account and client_id and client_secret which can be done here
+https://developer.domain.com.au/
