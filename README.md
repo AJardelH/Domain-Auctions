@@ -16,7 +16,7 @@ and write them to a database which I then hook into via PowreBI/Tableau for visu
 To run this script you will need your own Domain Developer account and client_id and client_secret which can be done here
 https://developer.domain.com.au/
 
-An example of the data visualisation below.
+An example of the data visualisation below. Colour density indicating Price, the number indicating number of sales within each Postcode.
 
 ![Tableau_example](https://user-images.githubusercontent.com/113073854/206088732-b924e4b1-7cd4-4350-af72-eb5d15a2086e.PNG)
 
